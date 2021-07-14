@@ -37,7 +37,7 @@
 						<Title
 							id="tableHeader"
 							text="{worklistView>/worklistTableTitle}"
-							level="H3"/>
+							level="H4"/>
 						<ToolbarSpacer />
 						<SearchField
 							id="searchField"
